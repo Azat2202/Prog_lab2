@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fff5dbac-ba6c-4163-acfc-e62d1ee9487b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Poke.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moves/PhysicalMoves/FireBlast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moves/SpecialMoves/Hurricane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moves/SpecialMoves/HyperVoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moves/SpecialMoves/NightShade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moves/StatusMoves/Agility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moves/StatusMoves/Amnesia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moves/StatusMoves/Confide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moves/StatusMoves/Rest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moves/StatusMoves/Swagger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moves/StatusMoves/WillOWisp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pokemons/Chandelure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pokemons/Furret.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pokemons/Lampent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pokemons/Litwick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pokemons/Moltres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pokemons/Sentret.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
